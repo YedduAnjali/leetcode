@@ -22,4 +22,5 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/YedduAnjali/leetcode/tree/master/0009-palindrome-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/YedduAnjali/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
