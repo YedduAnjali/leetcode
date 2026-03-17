@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YedduAnjali/leetcode/tree/master/0001-two-sum) |
+| [0198-house-robber](https://github.com/YedduAnjali/leetcode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/YedduAnjali/leetcode/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/YedduAnjali/leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
