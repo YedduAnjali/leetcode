@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YedduAnjali/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/YedduAnjali/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0198-house-robber](https://github.com/YedduAnjali/leetcode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/YedduAnjali/leetcode/tree/master/0198-house-robber) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YedduAnjali/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YedduAnjali/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
