@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/YedduAnjali/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/YedduAnjali/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/YedduAnjali/leetcode/tree/master/0027-remove-element) |
 | [0198-house-robber](https://github.com/YedduAnjali/leetcode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/YedduAnjali/leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/YedduAnjali/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
