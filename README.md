@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/YedduAnjali/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/YedduAnjali/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/YedduAnjali/leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/YedduAnjali/leetcode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/YedduAnjali/leetcode/tree/master/0198-house-robber) |
 | [1929-concatenation-of-array](https://github.com/YedduAnjali/leetcode/tree/master/1929-concatenation-of-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/YedduAnjali/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/YedduAnjali/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/YedduAnjali/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/YedduAnjali/leetcode/tree/master/0202-happy-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/YedduAnjali/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Two Pointers
