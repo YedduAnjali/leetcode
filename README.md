@@ -35,6 +35,7 @@
 | [0066-plus-one](https://github.com/YedduAnjali/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/YedduAnjali/leetcode/tree/master/0202-happy-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/YedduAnjali/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/YedduAnjali/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
