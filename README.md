@@ -23,6 +23,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YedduAnjali/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YedduAnjali/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/YedduAnjali/leetcode/tree/master/0125-valid-palindrome) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/YedduAnjali/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
 |  |
@@ -43,6 +44,7 @@
 | [0011-container-with-most-water](https://github.com/YedduAnjali/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/YedduAnjali/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YedduAnjali/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/YedduAnjali/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/YedduAnjali/leetcode/tree/master/0202-happy-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/YedduAnjali/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
