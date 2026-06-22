@@ -36,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/YedduAnjali/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YedduAnjali/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/YedduAnjali/leetcode/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/YedduAnjali/leetcode/tree/master/0509-fibonacci-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/YedduAnjali/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YedduAnjali/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/YedduAnjali/leetcode/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/YedduAnjali/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +79,12 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YedduAnjali/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/YedduAnjali/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YedduAnjali/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YedduAnjali/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
