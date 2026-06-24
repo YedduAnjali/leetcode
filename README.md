@@ -37,6 +37,7 @@
 | [0007-reverse-integer](https://github.com/YedduAnjali/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YedduAnjali/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YedduAnjali/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/YedduAnjali/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/YedduAnjali/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/YedduAnjali/leetcode/tree/master/0509-fibonacci-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/YedduAnjali/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YedduAnjali/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/YedduAnjali/leetcode/tree/master/0069-sqrtx) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YedduAnjali/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
