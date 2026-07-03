@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/YedduAnjali/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/YedduAnjali/leetcode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/YedduAnjali/leetcode/tree/master/0198-house-robber) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/YedduAnjali/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/YedduAnjali/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/YedduAnjali/leetcode/tree/master/1929-concatenation-of-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/YedduAnjali/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
