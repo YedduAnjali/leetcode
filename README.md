@@ -19,11 +19,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/YedduAnjali/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YedduAnjali/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/YedduAnjali/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/YedduAnjali/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YedduAnjali/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/YedduAnjali/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YedduAnjali/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/YedduAnjali/leetcode/tree/master/0125-valid-palindrome) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/YedduAnjali/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -37,6 +39,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/YedduAnjali/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YedduAnjali/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/YedduAnjali/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/YedduAnjali/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/YedduAnjali/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/YedduAnjali/leetcode/tree/master/0202-happy-number) |
